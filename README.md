@@ -18,7 +18,6 @@
   <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Ale-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Ale-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Ale-pic" height="120" width="120" style="border-radius:50px;" src="http://31.media.tumblr.com/tumblr_mbt3emHjt21qhansmo1_500.gif">
 </div>
 
 ##
