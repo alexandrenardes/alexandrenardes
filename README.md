@@ -1,7 +1,7 @@
 ### Eaí, me chamo Alexandre Nardes
 
 - 🔭 Atualmente Trabalho como Analista de Serviços
-- 🌱 Estou estudando programção em Front-end
+- 🌱 Estou estudando programação em Front-end
 
 <div align="center">
   <a href="https://github.com/alexandrenardes">
