@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/alexandrenardes">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alexandrenardes&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrenardes&layout=compact&langs_count=7&theme=blue-green"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrenardes&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ale-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
