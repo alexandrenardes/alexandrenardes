@@ -1,5 +1,6 @@
-### Eaí, me chamo Alexandre Nardes
+### Hello, my name is Alexandre Nardes
 
+- 🤙🏻 22 years old
 - 🔭 Atualmente Trabalho como Analista de Serviços
 - 🌱 Estou estudando programação em Front-end
 
