@@ -1,9 +1,9 @@
 ### Hello, my name is Alexandre Nardes
 
-- 🤙🏻 22 years old
-- 🔭 I currently work as a Service Analyst
+- 🤙🏻 23 years old
+- 🔭 I currently work as a IT Consultant
 - 🌱 I'm studying Front-end and Back-end programming
-- ☁️ My dream is to be a full stack developer
+- ☁️ My dream is to be a Front-End Developer with a focus on Javascript.
 
 <div align="center">
   <a href="https://github.com/alexandrenardes">
