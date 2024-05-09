@@ -3,7 +3,7 @@
 - 🤙🏻 23 years old
 - 🔭 I currently work as a IT Consultant
 - 🌱 I'm studying Front-end and Back-end programming
-- ☁️ My dream is to be a Front-End Developer with a focus on Javascript.
+- ☁️ I wanna be a Front-End Developer.
 
 <div align="center">
   <a href="https://github.com/alexandrenardes">
