@@ -3,7 +3,6 @@
 - 🤙🏻 23 years old
 - 🔭 I currently work as a IT Consultant
 - 🌱 I'm studying Front-end and Back-end programming
-- ☁️ I wanna be a Front-End Developer.
 
 <div align="center">
   <a href="https://github.com/alexandrenardes">
