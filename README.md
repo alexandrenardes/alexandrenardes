@@ -4,22 +4,6 @@
 - 🔭 I currently work as a IT Consultant
 - 🌱 I'm studying Front-end and Back-end programming
 
-<div align="center">
-  <a href="https://github.com/alexandrenardes">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alexandrenardes&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrenardes&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ale-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ale-TailWind" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png">
-  <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ale-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Ale-Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
-  <img align="center" alt="Ale-Mysql" height="30" width="40" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png">
-  <img align="center" alt="Ale-Oracle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-</div>
 
 ##
 
