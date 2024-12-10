@@ -1,8 +1,8 @@
 ### Hello, my name is Alexandre Nardes
 
 - 🤙🏻 24 years old
-- 🔭 I currently work as a IT Consultant
-- 🌱 I'm studying Front-end and Back-end programming
+- 🔭 I currently work as a Front-end Developer
+- 🌱 I'm studying Frontend programming
 
 
 ##
